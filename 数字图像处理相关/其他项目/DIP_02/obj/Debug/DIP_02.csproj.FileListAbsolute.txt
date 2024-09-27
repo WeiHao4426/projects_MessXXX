@@ -1,0 +1,12 @@
+F:\UnivercityLessons\DIP\DIP_02\bin\Debug\DIP_02.exe.config
+F:\UnivercityLessons\DIP\DIP_02\bin\Debug\DIP_02.exe
+F:\UnivercityLessons\DIP\DIP_02\bin\Debug\DIP_02.pdb
+F:\UnivercityLessons\DIP\DIP_02\obj\Debug\DIP_02.csproj.AssemblyReference.cache
+F:\UnivercityLessons\DIP\DIP_02\obj\Debug\DIP_02.csproj.SuggestedBindingRedirects.cache
+F:\UnivercityLessons\DIP\DIP_02\obj\Debug\DIP_02.Form1.resources
+F:\UnivercityLessons\DIP\DIP_02\obj\Debug\DIP_02.Properties.Resources.resources
+F:\UnivercityLessons\DIP\DIP_02\obj\Debug\DIP_02.csproj.GenerateResource.cache
+F:\UnivercityLessons\DIP\DIP_02\obj\Debug\DIP_02.csproj.CoreCompileInputs.cache
+F:\UnivercityLessons\DIP\DIP_02\obj\Debug\DIP_02.exe
+F:\UnivercityLessons\DIP\DIP_02\obj\Debug\DIP_02.pdb
+F:\UnivercityLessons\DIP\DIP_02\obj\Debug\DIP_02.histogram.resources
