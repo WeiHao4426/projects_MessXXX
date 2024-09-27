@@ -1,0 +1,3 @@
+C:\Users\suga\Desktop\VS\ReaderAndWriter\x64\Debug\ReaderAndWriter.exe
+C:\Users\suga\Desktop\VS\ReaderAndWriter\x64\Debug\ReaderAndWriter.pdb
+F:\UnivercityLessons\Operating_system_EX\VS\ReaderAndWriter\x64\Debug\ReaderAndWriter.exe

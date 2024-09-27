@@ -1,0 +1,9 @@
+﻿  MUTEX.c
+F:\UnivercityLessons\Operating_system_EX\VS\ReaderAndWriter\MtVerify.h(42,11): warning C4133: “函数”: 从“char [256]”到“LPWSTR”的类型不兼容
+F:\UnivercityLessons\Operating_system_EX\VS\ReaderAndWriter\MtVerify.h(42,19): warning C4133: “函数”: 从“char [66]”到“LPCWSTR”的类型不兼容
+F:\UnivercityLessons\Operating_system_EX\VS\ReaderAndWriter\MtVerify.h(45,52): warning C4267: “函数”: 从“size_t”转换到“DWORD”，可能丢失数据
+F:\UnivercityLessons\Operating_system_EX\VS\ReaderAndWriter\MUTEX.c(32,28): warning C4311: “类型强制转换”: 从“LPVOID”到“int”的指针截断
+F:\UnivercityLessons\Operating_system_EX\VS\ReaderAndWriter\MUTEX.c(68,28): warning C4311: “类型强制转换”: 从“LPVOID”到“int”的指针截断
+F:\UnivercityLessons\Operating_system_EX\VS\ReaderAndWriter\MUTEX.c(110,3): warning C4312: “类型强制转换”: 从“int”转换到更大的“LPVOID”
+F:\UnivercityLessons\Operating_system_EX\VS\ReaderAndWriter\MUTEX.c(111,3): warning C4312: “类型强制转换”: 从“int”转换到更大的“LPVOID”
+  ReaderAndWriter.vcxproj -> F:\UnivercityLessons\Operating_system_EX\VS\ReaderAndWriter\x64\Debug\ReaderAndWriter.exe
